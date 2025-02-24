@@ -64,7 +64,7 @@ Open **two terminals**, one for the backend and one for the frontend.
 
 ## 📬 Contact
 📧 Email: mahammadarshil007@gmail.com
-🔗 LinkedIn: [Mahammad Arshil Vahora](https://www.linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [Mahammad Arshil Vahora](https://www.linkedin.com/in/mahammadarshil-vahora/)  
 
 ---
 
